@@ -1,0 +1,31 @@
+.chapternav-icon {
+width: 80px;
+height: 54px;
+background-size: 80px 54px;
+background-repeat: no-repeat;
+background-image: url("../img/iphone7icon.png");
+}
+
+ .chapternav-icon {
+width: 80px;
+height: 54px;
+background-size: 80px 54px;
+background-repeat: no-repeat;
+background-image: url("../img/iphone7icon.png");
+}
+
+.chapternav-icon {
+background: center bottom no-repeat;
+display: block;
+margin: 0 auto 6px;
+height: 54px;
+}
+figure {
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 40px;
+-webkit-margin-end: 40px;
+}
+
+
